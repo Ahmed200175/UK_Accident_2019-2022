@@ -13,4 +13,4 @@
 
 5. The Interactive Dashboard: [Link](https://public.tableau.com/views/Book1_17421409072650/AccidentDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-6.  Results and Findings: The insights are added to the [Data-Driven Story Report]().
+6.  Results and Findings: The insights are added to the [Data-Driven Story Report](Data-Driven Story Report.pdf).
